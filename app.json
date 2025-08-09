@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "TodoList",
-    "slug": "TodoList",
+    "name": "FinanceReactNative",
+    "slug": "FinanceReactNative",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "todolist",
+    "scheme": "finance_react_native",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
