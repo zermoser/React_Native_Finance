@@ -3,14 +3,14 @@ import { LinearGradient } from 'expo-linear-gradient';
 import React, { useState } from 'react';
 import type { ColorValue } from 'react-native';
 import {
-  Alert,
-  Modal,
-  ScrollView,
-  StyleSheet,
-  Text,
-  TextInput,
-  TouchableOpacity,
-  View
+    Alert,
+    Modal,
+    ScrollView,
+    StyleSheet,
+    Text,
+    TextInput,
+    TouchableOpacity,
+    View
 } from 'react-native';
 
 interface Transaction {
